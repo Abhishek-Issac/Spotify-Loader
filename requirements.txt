@@ -4,3 +4,4 @@ spotdl
 motor
 dnspython
 pyromod
+pymongo[srv]==3.6
