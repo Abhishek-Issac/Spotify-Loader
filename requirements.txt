@@ -1,8 +1,8 @@
 pyrogram
 tgcrypto
 spotdl
-motor==2.5.1
+pymongo==3.6
+motor==2.4.0
 umongo==3.0.1
 dnspython
 pyromod
-pymongo[srv]==3.6
